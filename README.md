@@ -34,7 +34,7 @@ Open index.html in your web browser
 
 Method 2: Clone Repository
 bashCopy# Clone the repository
-git clone https://github.com/Sushantmishra2002/Portfolio.git
+git clone https://github.com/Sushantmishra2002/Portfolio_website_Growthlink
 
 # Navigate to the project directory
 cd Portfolio
