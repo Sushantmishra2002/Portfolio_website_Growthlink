@@ -40,34 +40,33 @@ git clone https://github.com/Sushantmishra2002/Portfolio_website_Growthlink
 cd Portfolio
 
 # Open index.html in your browser
-📂 Project Structure
-Portfolio_My_New/
+📂 Portfolio_My_New/
 │
-├── Assets/
-│   ├── Images/
-│        ├── 2.jpg
-│        ├── VC.jpeg
-│        ├── ab.png
-│        ├── hp.jpg
-│        ├── im.jpg
-│        ├── jjj.jpg
-│        ├── ssmm.jpg
-│   │── certificates/
-|        ├── DT.jpeg
-|        ├── IM.jpeg
-|        ├── c++.PNG
-|        ├── c1.PNG
-|        ├── c2.PNG
-|        ├── csss.PNG
-|        ├── git.PNG
-|        ├── inf.PNG
-|        ├── js.PNG
-|        ├── ud.PNG
-|        ├── ud2.ipg
-│   ├── port.css
-│   └── port.js
-|   ├── index.html
-└── README.md
+├── 📂 Assets/
+│ ├── 📂 Images/
+│ │ ├── 🖼️ 2.jpg
+│ │ ├── 🖼️ VC.jpeg
+│ │ ├── 🖼️ ab.png
+│ │ ├── 🖼️ hp.jpg
+│ │ ├── 🖼️ im.jpg
+│ │ ├── 🖼️ jjj.jpg
+│ │ ├── 🖼️ ssmm.jpg
+│ ├── 📂 certificates/
+│ │ ├── 📜 DT.jpeg
+│ │ ├── 📜 IM.jpeg
+│ │ ├── 📜 c++.PNG
+│ │ ├── 📜 c1.PNG
+│ │ ├── 📜 c2.PNG
+│ │ ├── 📜 csss.PNG
+│ │ ├── 📜 git.PNG
+│ │ ├── 📜 inf.PNG
+│ │ ├── 📜 js.PNG
+│ │ ├── 📜 ud.PNG
+│ │ ├── 📜 ud2.ipg
+│ ├── 🎨 port.css
+│ ├── 🖥️ port.js
+│ ├── 🏠 index.html
+├── 📖 README.md
 
 ✨ Features
 
